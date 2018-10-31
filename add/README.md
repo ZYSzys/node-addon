@@ -7,7 +7,6 @@
 ## Build
 
 ```sh
-$ cd [add|callback]
 $ node-gyp configure build
 ```
 
